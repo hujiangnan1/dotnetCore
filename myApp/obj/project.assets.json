@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/usr/program/myApp/myApp.csproj",
+      "projectUniqueName": "/usr/program/dotnetCore/myApp/myApp.csproj",
       "projectName": "myApp",
-      "projectPath": "/usr/program/myApp/myApp.csproj",
+      "projectPath": "/usr/program/dotnetCore/myApp/myApp.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/usr/program/myApp/obj/",
+      "outputPath": "/usr/program/dotnetCore/myApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
