@@ -9,3 +9,14 @@
 /usr/program/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
 /usr/program/myApp/obj/Debug/netcoreapp2.1/myApp.dll
 /usr/program/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
+/usr/program/dotnetCore/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/usr/program/dotnetCore/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/usr/program/dotnetCore/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/usr/program/dotnetCore/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/usr/program/dotnetCore/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/usr/program/dotnetCore/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/usr/program/dotnetCore/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/usr/program/dotnetCore/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/usr/program/dotnetCore/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/usr/program/dotnetCore/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/usr/program/dotnetCore/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
